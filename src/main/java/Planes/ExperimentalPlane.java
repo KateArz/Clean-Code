@@ -25,7 +25,7 @@ public class ExperimentalPlane extends Plane{
     @Override
     public boolean equals(Object o) {
         return super.equals(o);
-    } // ? нужно ли добавлять
+    }
 
     @Override
     public int hashCode() {
